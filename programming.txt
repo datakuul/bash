@@ -1,1 +1,3 @@
-Hello everyone. It's good to learn to code
+Hello everyone. It's good to learn to code. We'll first start with bash, 
+proceed to git and github. These are the essentials. We'll then move to R, 
+python and SQL for data manipulation and visualisation
